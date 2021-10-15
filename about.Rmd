@@ -4,5 +4,5 @@ title: "About Me"
 
 
 - __Name:__ Sam
-- __Occupation:__ Asseater
+- __Occupation:__ Graduate Student
 - __Fav Genshin Characeter:__ Xiao

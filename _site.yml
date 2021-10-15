@@ -1,7 +1,7 @@
 name: "personal-website"
 output_dir: "."
 navbar:
-  title: "Personal Website"
+  title: "Samuel Fung"
   left:
     - text: "Home"
       href: index.html
@@ -9,3 +9,7 @@ navbar:
       href: about.html
     - text: "Projects"
       href: projects.html
+output:
+  html_document:
+    theme: flatly
+    

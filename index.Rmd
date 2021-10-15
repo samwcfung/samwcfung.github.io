@@ -1,4 +1,4 @@
 ---
-title: "Personal Website"
+title: "Home"
 ---
-Hello World! :)))))(
+Welcome to my page!
