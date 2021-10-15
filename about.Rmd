@@ -4,5 +4,5 @@ title: "About Me"
 
 
 - __Name:__ Sam
-- __Occupation:__ Bleugh
-- __HMMMMM__
+- __Occupation:__ Asseater
+- __Fav Genshin Characeter:__ Xiao
