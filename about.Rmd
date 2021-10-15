@@ -2,4 +2,7 @@
 title: "About Me"
 ---
 
-yay this is finally working... i hope
+
+- __Name:__ Sam
+- __Occupation:__ Bleugh
+- __HMMMMM__
