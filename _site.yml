@@ -9,7 +9,12 @@ navbar:
       href: about.html
     - text: "Projects"
       href: projects.html
+    - text: "blog"
+      href: https://atypicalhoomans.wordpress.com/
+    - text: "CV"
+      href: file:///C:/Working/Website/samwcfung.github.io/Samuel_Fung_CV_10.19.21.htm
 output:
   html_document:
-    theme: flatly
+    theme: journal
+    highlight: textmate
     
