@@ -12,7 +12,7 @@ navbar:
     - text: "blog"
       href: https://atypicalhoomans.wordpress.com/
     - text: "CV"
-      href: file:///C:/Working/Website/samwcfung.github.io/Samuel_Fung_CV_10.19.21.htm
+      href: cv.html
 output:
   html_document:
     theme: journal
